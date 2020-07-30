@@ -10,4 +10,4 @@ The unary constraint on a variable is given by its length.
 The binary constraints on a variable are given by its overlap with neighboring variables. 
 For this problem, I added the additional constraint that all words must be different: the same word should not be repeated multiple times in the puzzle.
 
-Run "python generate.py data/structure1.txt data/words1.txt demo_output.png"
+Run "python generate.py data/structure1.txt data/words1.txt output.png"
